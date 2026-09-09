@@ -6,7 +6,7 @@ layout: default
 
 |         | 标准版          | 小屏版 |
 |:-------------|:------------------|:------|
-| 适配           | Galaxy Watch ... | 因屏幕边框受限而不方便按到一些按钮的手表 (例 : Ticwatch Pro ...)  |
+| 调整了布局  | 大部分圆表设备 | 因屏幕边框受限而不方便按到一些按钮的手表 (例 : Ticwatch Pro ...)  |
 
 ### There's a horizontal rule below this.
 
